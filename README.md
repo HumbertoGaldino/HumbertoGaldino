@@ -26,14 +26,14 @@
     <img style="margin-bottom:5px" align='center' alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img style="margin-bottom:5px" align='center' alt="sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
     <img style="margin-bottom:5px" align='center' alt="express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-    <img style="margin-bottom:5px" align='center' alt="react" src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img style="margin-bottom:5px" align='center' alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img style="margin-bottom:5px" align='center' alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img style="margin-bottom:5px" align='center' alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img style="margin-bottom:5px" align='center' alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img style="margin-bottom:5px" align='center' alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img style="margin-bottom:5px" align='center' alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img style="margin-bottom:5px" align='center' alt="jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-</div> </br></br>
+</div> </br>
 
 ### 🖥️ Cursos de Programação:
 [![DigitalHouse](https://img.shields.io/badge/DigitalHouse-E60012?style=for-the-badge&logo&logoColor=white>)](https://www.digitalhouse.com/br)
@@ -41,11 +41,11 @@
 
 </br>
 
-### IDE mais utilizada:
+### 🤖 IDE mais utilizada:
 
 [![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-### Programa de notas mais utilizados:
+### 📝 Programa de notas mais utilizados:
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/)
 
