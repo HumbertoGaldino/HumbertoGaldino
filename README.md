@@ -39,8 +39,6 @@
 [![DigitalHouse](https://img.shields.io/badge/DigitalHouse-E60012?style=for-the-badge&logo&logoColor=white>)](https://www.digitalhouse.com/br)
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost)](https://app.rocketseat.com.br)
 
-</br>
-
 ### 🤖 IDE mais utilizada:
 
 [![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
