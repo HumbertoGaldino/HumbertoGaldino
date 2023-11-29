@@ -9,7 +9,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoGaldino&layout=compact&theme=tokyonight)
 
-
 ### 🛸 Tecnologias que mais utilizo:
 
 <div style="display: inline_block">
@@ -34,7 +33,7 @@
     <img align='center' alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align='center' alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align='center' alt="jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-</div> </br>
+</div>
 
 ### 🖥️ Cursos de Programação:
 [![DigitalHouse](https://img.shields.io/badge/DigitalHouse-E60012?style=for-the-badge&logo&logoColor=white>)](https://www.digitalhouse.com/br)
