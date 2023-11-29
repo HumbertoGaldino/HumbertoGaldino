@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HumbertoGaldino&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoGaldino&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoGaldino&hide_progress=true)
 
 ### 🛸 Tecnologias que mais utilizo:
 
