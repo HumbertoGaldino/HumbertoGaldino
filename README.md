@@ -1,4 +1,4 @@
-### Olá, eu sou o Humberto Galdino 👌🏼
+### Olá, eu sou o Humberto👌🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white)](humberto.galdino@live.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white>)](https://www.digitalhouse.com/br)
@@ -43,7 +43,7 @@
 
 [![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-### 📝 Programa de notas mais utilizados:
+### 📝 Apps de notas mais utilizados:
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/)
 
