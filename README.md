@@ -1,7 +1,7 @@
 ### Olá, eu sou o Humberto👌🏼
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white)](humberto.galdino@live.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white>)](https://www.digitalhouse.com/br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-galdino/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white>)](mailto:humberto.galdino@live.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/humberto.galdino/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562999742142?text=Ol%C3%A1+Humberto%2C+visualizei+seu+perfil+no+GitHub)
 
